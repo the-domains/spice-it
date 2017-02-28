@@ -1,0 +1,30 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Spice It
+layout_spectrum: 0.9230297636240721
+typography_spectrum: 0.12574956635944545
+color:
+  brandStrength: 0.48461984703317285
+  lightness: 0.7177056230138987
+  saturation: 0.21281529450789094
+  rhythmicContrast: 0.23984631756320596
+  brandColors:
+    - '#000000'
+    - '#D9D9D9'
+    - '#B4B4B4'
+    - '#414141'
+    - '#747474'
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91430cd6-1fe1-42bb-9940-60c0cf3386df.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a5fad45-dc2d-47fe-a80b-ccc7f296946e.png
+author:
+  name: Tahseen Shaukat
+  email: tahseen.shaukat@beatsventure.com
